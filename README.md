@@ -1,7 +1,5 @@
 # Calculadora em JavaScript
 
-![Calculadora](calculator.png)
-
 Uma calculadora simples desenvolvida em JavaScript que realiza operações matemáticas básicas.
 
 ## Funcionalidades
@@ -13,7 +11,7 @@ Uma calculadora simples desenvolvida em JavaScript que realiza operações matem
 
 ## Demonstração
 
-![Demonstração da Calculadora](demo.gif)
+<img width="400" src="https://github.com/raphaelkauan/Calculadora-Js/assets/111379005/e66a19a0-d2e0-4024-90d4-34da9ed2db0a">
 
 ## Como Usar
 
